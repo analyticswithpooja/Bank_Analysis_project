@@ -1,4 +1,4 @@
-# Bank_Analysis_project
+# Bank_ Churn_Analysis_project
 This project is focused on analyzing bank customer churn — that is, how many customers left the bank. It uses sample data to practice cleaning, modeling, and visualizing information in Power BI.
 
 The process includes:
